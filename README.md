@@ -11,7 +11,7 @@ An infrastructure for sensitive governmental services and identifying civilians 
 
 ## Overview
 
-The <em>MAK-Chain<em> is a blockchain-based solution for managing identities and governance processes. The system stores identities as smart contracts on the blockchain, providing a secure and tamper-proof way of managing personal information. The system also includes two mobile apps, one for civilians to interact with available services, and another for participating in votings.
+The <em>MAK-Chain<em> is a blockchain-based solution for managing identities and governance processes. The system stores identities as smart contracts on the blockchain, providing a secure and tamper-proof way of managing personal information. The system also includes two mobile apps, one for civilians to interact with available services, and another for government personnel.
 
 ## Architecture
 
@@ -67,6 +67,15 @@ The Smart Identity and Governance System offers the following benefits:
 - Transparency: all transactions on the system are processed through the blockchain network, providing a transparent way of processing transactions.
 - Efficiency: the use of mobile apps allows for efficient interaction with the system, reducing the need for physical visits to government offices.
 - Accessibility: the mobile apps make the system accessible to a wider audience, including those in remote areas.
+
+
+## Contributors
+
+- [@Mohamed Samy](https://github.com/Mohamed-Samy26) 
+- [@Yousef Elkammar](https://github.com/RedBiscuits)
+- [@KareemHussen](https://github.com/KareemHussen)
+- [@Abdelrahman Mohamed](https://github.com/abdelrhmanmo)
+- [@Ahmed Medhat](https://github.com/Medhat74)
 
 ## Awards
 
