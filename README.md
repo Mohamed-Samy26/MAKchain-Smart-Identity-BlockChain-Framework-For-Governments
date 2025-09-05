@@ -108,4 +108,5 @@ The Smart Identity and Governance System offers the following benefits:
 
 ## Conclusion
 
+
 `MAK Chain` is a blockchain-based solution for managing identities and governance processes. The system stores identities as smart contracts on the blockchain, providing a secure and tamper-proof way of managing personal information. The system also includes two mobile apps, one for civilians to interact with available services, and another for participating in votings. The system offers increased security, transparency, efficiency, and accessibility, making it a valuable tool for managing identities and governance processes.
